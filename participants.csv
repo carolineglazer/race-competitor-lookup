@@ -1,0 +1,661 @@
+bib_number,name,race,gender,age,city,state,ultrasignup_race_results,ultrasignup_rank,ultrasignup_age_rank,ultrasignup_user_records
+,Will Aarsheim,Miwok 100K WaitList,Male,54,Sausalito,CA,63,0.7229,0.7823,1
+6,Mike Acer,Miwok 100K,Male,61,Yardley,PA,54,0.6713,0.8536,1
+7,Praful Aggarwal,Miwok 100K,Male,35,Milwaukee,WI,15,0.6781,0.735,1
+8,Travis Ahlgren,Miwok 100K,Male,38,Santa Monica,CA,6,0.6435,0.6586,1
+9,Teresa Allman,Miwok 100K,Female,47,Honolulu,HI,3,0.9159,0.9348,2
+,Teresa Allman,18-week Training Plan,Female,47,Honolulu,HI,3,0.9159,0.9348,2
+10,Jennifer Amano,Miwok 100K,Female,41,Fort Collins,CO,60,0.6928,0.7593,1
+11,Roni Ankonina,Miwok 100K,Male,57,Sunnyvale,CA,8,0.6529,0.8289,1
+12,Marites Antonio,Miwok 100K,Female,52,West Sacramento,CA,25,0.6985,0.7763,1
+,John Armbrust,Miwok 100K WaitList,Male,42,Austin,TX,9,0.6011,0.6536,2
+13,Chris Atha,Miwok 100K,Male,46,Folsom,CA,9,0.6609,0.774,1
+,Moises Avila,Miwok 100K WaitList,Male,43,Gilroy,CA,105,0.7137,0.7613,1
+,Sean Avila Saiter,Miwok 100K WaitList,Male,46,Sebastopol,CA,8,0.5543,0.6497,1
+14,Simon Axten,Miwok 100K,Male,40,Bend,OR,17,0.7729,0.8232,1
+15,Christopher Azar,Miwok 100K,Male,32,San Francisco,CA,3,0.7844,0.7844,2
+16,Duncan Bagshaw,Miwok 100k plus 18 week Training Plan,Male,53,Riverside,CT
+,Ben Balester,Miwok 100K WaitList,Male,49,Monterey,CA,37,0.7989,0.8549,1
+,Denise Barchas,Miwok 100K WaitList,Female,46,San Francisco,CA,44,0.7862,0.857,2
+,Shawn Barr,Miwok 100K WaitList,Male,38,Berkeley,CA,12,0.7982,0.834,1
+17,Sarah Barrett,Miwok 100K,Female,39,Simsbury,CT,25,0.6762,0.722,3
+18,Rachel Barrington,Miwok 100K,Female,31,Rocklin,CA,5,0.5386,0.5443,1
+19,Noe Barrios,Miwok 100K,Male,67,El Cerrito,CA,19,0.6081,0.7918,2
+,Matthew Barry,18-week Training Plan,Male,50,Auburn,CA,10,0.8886,0.9471,3
+20,Matthew Barry,Miwok 100K,Male,50,Auburn,CA,10,0.8886,0.9471,3
+21,Alicia Bartomeli,Miwok 100K,Female,42,Los Altos Hills,CA,16,0.6262,0.6826,1
+,Redfield Baum,Miwok 100K WaitList,Male,50,Scottsdale,AZ,15,0.6223,0.6869,1
+,Dan Baxley,Miwok 100K WaitList,Male,52,San Rafael,CA,51,0.6529,0.7545,1
+22,Croom Beatty,Miwok 100K,Male,33,Mill Valley,CA,20,0.8511,0.8762,1
+,Joe Becic,Miwok 100K WaitList,Male,30,San Francisco,CA
+23,Matthew Beltz,Miwok 100K,Male,39,Fairfax,CA,4,0.686,0.6973,1
+24,Cori Bendixen,Miwok 100K,Female,55,Riverton,UT,22,0.6225,0.7894,1
+25,Kim Bengelsdorf,Miwok 100K,Female,52,Newbury Park,CA,45,0.5878,0.6949,1
+26,Sarah Benrath,Miwok 100K,Female,40,Bend,OR,23,0.7672,0.7877,1
+27,Linus Bergstrom,Miwok 100K,Male,36,Mill Valley,CA
+28,Stefanie Bernosky,Miwok 100K,Female,41,Seattle,WA,85,0.7629,0.8081,2
+29,Christopher Beveroth,Miwok 100K,Male,38,Port Byron,IL
+30,Chris Beville,Miwok 100K,Male,34,Vacaville,CA,3,0.5572,0.5926,1
+31,Eileen Biscaha,Miwok 100K,Female,33,Fair Oaks,CA,9,0.7656,0.8388,1
+32,Maya Bisineer,Miwok 100K,Female,48,Cupertino,CA,5,0.7665,0.8693,1
+,Sofie Blicher,Miwok 100K WaitList,Female,36,San Diego,CA,11,0.9384,0.9581,1
+33,Becca Bloom,Miwok 100K,Female,58,Fair Oaks,CA,5,0.7435,0.8325,1
+34,Jeff Bohl,Miwok 100K,Male,47,San Francisco,CA
+,Jeff Bohl,18-week Training Plan,Male,47,San Francisco,CA
+35,Timothy Bolen,Miwok 100K,Male,57,Tempe,AZ,19,0.6678,0.8291,1
+,Timothy Bolen,18-week Training Plan,Male,57,Tempe,AZ,19,0.6678,0.8291,1
+36,Debbie Booth,Miwok 100K,Female,50,Auburn,CA,35,0.6982,0.7657,2
+37,Joshua Bornstein,Miwok 100K,Male,35,San Rafael,CA,8,0.8775,0.913,1
+38,Joseph Bouchey,Miwok 100K,Male,33,Las Vegas,NV,23,0.8162,0.8791,1
+39,Jeff Boutte,Miwok 100K,Male,60,Sacramento,CA,31,0.7421,0.8732,1
+40,Erica Bower,Miwok 100K,Female,30,Palo Alto,CA,2,0.8646,0.9848,1
+42,Andrew Boyle,Miwok 100K,Male,26,Pasadena,CA,9,0.8991,0.9659,3
+41,Colleen Boyle,Miwok 100K,Female,30,Encinitas,CA,4,0.776,0.0,2
+43,Jennifer Brackett,Miwok 100K,Female,30,San Jose,CA,23,0.7482,0.7955,1
+44,Sean Bradley,Miwok 100K,Male,28,Carrboro,NC,9,0.6097,0.6464,5
+45,Lance Brady,Miwok 100K,Male,52,Mountain View,CA,15,0.7319,0.7949,2
+48,Bo Brandt,Miwok 100K,Male,33,Raleigh,NC,9,0.6674,0.6888,1
+47,Jennifer Brandt,Miwok 100K,Female,35,Raleigh,NC,5,0.6478,0.7334,2
+46,Tyler Brandt,Miwok 100K,Male,32,Petaluma,CA,1,0.9026,0.9603,1
+,Chris Breitschwerdt,Miwok 100K WaitList,Male,52,Monrovia,CA,43,0.6937,0.8114,1
+,Katelyn Breitschwerdt,Miwok 100K WaitList,Female,26,Monrovia,CA,17,0.7865,0.8759,2
+49,Jonathan Bretan,Miwok 100K,Male,40,San Rafael,CA,81,0.7212,0.7661,1
+,James Bretl,Miwok 100K WaitList,Male,60,Corvallis,OR
+50,Kristin Brower,Miwok 100K,Female,49,Danville,CA,6,0.806,0.911,2
+51,Jeff Brown,Miwok 100K,Male,50,Truckee,CA,40,0.5956,0.6487,21
+52,Loree Bruckmann-Harmon,Miwok 100K,Female,59,Albany,CA,50,0.6423,0.7316,1
+,Loree Bruckmann-Harmon,18-week Training Plan,Female,59,Albany,CA,50,0.6423,0.7316,1
+53,Patty Bryant,Miwok 100K,Female,63,Snowmass Village,CO,85,0.7189,0.8746,1
+54,Michael Buchanan,Miwok 100K,Male,49,San Carlos,CA,27,0.8962,0.9077,3
+55,Moriah Buckley,Miwok 100K,Female,44,San Rafael,CA,18,0.8299,0.891,1
+56,Nathan Budziak,Miwok 100K,Male,39,San Jose,CA,23,0.7518,0.7842,1
+57,Megan Budzyn,Miwok 100K,Female,36,Citrus Heights,CA,17,0.7723,0.8399,1
+,Donald Buraglio,Miwok 100K WaitList,Male,52,Carmel Valley,CA,40,0.709,0.7402,1
+58,Alison Burke,Miwok 100K,Female,47,Ashland,OR,41,0.7546,0.8372,4
+59,Susan Bush,Miwok 100K,Female,55,Palo Alto,CA,116,0.5963,0.7056,2
+60,Dakota Butler,Miwok 100k plus 18 week Training Plan,Male,40,Washington,DC,1,0.6369,0.0,2
+61,Nicole Buurma,Miwok 100K,Female,40,Lynden,WA,43,0.8392,0.8843,2
+62,Angelique Byrd,Miwok 100k plus 18 week Training Plan,Female,44,Upper Marlboro,MD,3,0.4996,0.4992,2
+63,Lynnard Cabanas,Miwok 100K,Male,43,Fremont,CA,45,0.781,0.8379,1
+64,Curtis Campbell,Miwok 100K,Male,51,Port Coquitlam,BC,14,0.6512,0.7557,3
+65,Robin Campiz,Miwok 100K,Female,32,Lincoln,CA,3,0.5751,0.5975,1
+66,Jeffrey Cannon,Miwok 100K,Male,64,Palm Desert,CA,14,0.6733,0.9287,2
+67,Rodrigo Cardoze,Miwok 100K,Male,45,Miami,FL,1,0.7832,0.7832,1
+68,Jordan Carr,Miwok 100K,Male,38,Campbell,CA,25,0.7224,0.7718,3
+,Mario Castaneda,Miwok 100K WaitList,Male,34,Boulder,CO,8,0.7374,0.7503,1
+,Amanda Casto,Miwok 100K WaitList,Female,41,Seattle,WA,44,0.6586,0.7012,1
+69,Andrea Castro,Miwok 100K,Female,51,Bellevue,WA,5,0.6476,0.8532,3
+70,Arnaud CAVAILHEZ,Miwok 100K,Male,38,Oakland,CA,7,0.7063,0.7103,1
+,Isela Cervantes,Miwok 100K WaitList,Female,30,Irving,TX
+,MITCHELL CHAN,Miwok 100K WaitList,Male,47,Costa Mesa,CA,83,0.6186,0.638,1
+,Peter Chan,Miwok 100K WaitList,Male,64,Fremont,CA,123,0.6308,0.8227,4
+71,Monika Chao,Miwok 100K,Female,31,Berkeley,CA,3,0.7142,0.8198,1
+72,Connor Charpentier,Miwok 100K,Male,24,Kingsburg,CA,1,0.8048,0.0,1
+73,Ying Chen,Miwok 100K,Male,49,San Jose,CA,6,0.7194,0.8555,3
+74,Lucia Chen-Luftig,Miwok 100K,Female,51,Point Reyes Station,CA,10,0.6967,0.8197,1
+76,Luisa Cheung,Miwok 100K,Female,51,San Mateo,CA,158,0.712,0.7868,1
+75,Ruby Cheung,Miwok 100K,Female,39,Fremont,CA,11,0.7053,0.7618,2
+,David Childs,Miwok 100K WaitList,Male,61,Seattle,WA,14,0.7488,0.8901,2
+77,Sebastian Chiu,Miwok 100K,Male,30,Brooklyn,NY,1,0.6221,0.6221,1
+78,Yung Hae Cho,Miwok 100K,Female,48,Bend,OR,2,0.6599,0.7941,1
+79,Neal Christen,Miwok 100K,Male,45,Aptos,CA,13,0.7283,0.829,2
+80,Andrea Christensen,Miwok 100K,Female,41,Saratoga Springs,UT,21,0.8833,0.9111,3
+81,Aaron Christie,Miwok 100K,Male,48,Anchorage,AK,26,0.5885,0.6065,1
+,Aaron Christie,18-week Training Plan,Male,48,Anchorage,AK,26,0.5885,0.6065,1
+,Jaymes Chuderski,Miwok 100K WaitList,Male,33,San Diego,CA,5,0.6683,0.7135,2
+82,Mary Churchill,Miwok 100K,Female,47,San Anselmo,CA,50,0.8748,0.9225,1
+83,Pete Clancy,Miwok 100K,Male,48,Walnut Creek,CA,11,0.4933,0.5637,1
+84,Sarah Clark,Miwok 100k plus 18 week Training Plan,Female,34,Missoula,MT,22,0.9613,0.9711,14
+,Derek Clemmensen,Miwok 100K WaitList,Male,38,Golden,CO,6,0.7288,0.795,1
+85,Chelsea Cluff,Miwok 100K,Female,30,Reno,NV,22,0.754,0.8387,1
+86,Jill Cole,Miwok 100K,Female,52,San Jose,CA,47,0.7743,0.8567,2
+87,Jordan Collins,Miwok 100K,Male,32,Atascadero,CA,5,0.7613,0.8126,1
+88,Sam Condon,Miwok 100K,Male,24,Pasadena,CA,1,0.0,0.0,1
+89,Jeffrey Conner,Miwok 100K,Male,42,Reno,NV,36,0.6379,0.6771,1
+90,Alexander Conrad,Miwok 100K,Male,39,Half Moon Bay,CA,12,0.7595,0.8177,1
+92,CASEY CORMAN,Miwok 100K,Male,33,Walnut Creek,CA,11,0.7474,0.7832,1
+91,Martine Corman,Miwok 100K,Female,35,Walnut Creek,CA,2,0.8351,0.0,2
+,Ana Cornea,Miwok 100K WaitList,Female,39,Everett,WA,12,0.6723,0.6894,2
+93,Nick Corpuz Jr,Miwok 100K,Male,45,El Cerrito,CA
+94,Pamela Coughlin,Miwok 100K,Female,57,Walnut Creek,CA,23,0.6557,0.8396,1
+95,Chuck Coxe,Miwok 100K,Male,49,Sparks,NV,23,0.7019,0.7964,1
+96,Larry Creveling,Miwok 100K,Male,70,Westminster,SC,164,0.6447,0.9397,1
+97,Jennifer Crick,Miwok 100k plus 18 week Training Plan,Female,56,Sacramento,CA,64,0.6697,0.79,3
+98,Brian Cronin,Miwok 100K,Male,47,Beacon,NY,5,0.5335,0.6704,5
+99,Kelly Cronin,Miwok 100K,Female,46,Grass Valley,CA,59,0.9045,0.9507,1
+,Serena Crutchfield,Miwok 100K WaitList,Female,41,Medford,MA,10,0.6935,0.7417,1
+100,Jose Cruz,Miwok 100K,Male,44,Bountiful,UT,23,0.9044,0.9661,5
+101,Anne Cullens,Miwok 100k plus 18 week Training Plan,Female,41,Atlanta,GA
+,Janet Cunningham,Miwok 100K WaitList,Female,43,Susanville,CA,19,0.7001,0.758,3
+103,Corbett Cutts,Miwok 100K,Male,42,Lees Summit,MO,5,0.5094,0.5899,1
+102,Justin Cutts,Miwok 100K,Male,46,Penryn,CA,15,0.5532,0.6768,1
+,William Dai,Miwok 100K WaitList,Male,53,San Francisco,CA,86,0.7481,0.8376,1
+104,Skott Daltonic,Miwok 100K,Male,52,Emeryville,CA,32,0.5681,0.7064,1
+,Sean Danaher,Miwok 100K WaitList,Male,33,Manzanita,OR,11,0.5814,0.6025,2
+105,Subhamoy Das,Miwok 100K,Male,35,Menlo Park,CA,9,0.4937,0.5219,1
+,Trevor Davenport,Miwok 100K WaitList,Male,50,Gilbert,AZ,35,0.6354,0.7079,1
+,Trevor Davenport,18-week Training Plan,Male,50,Gilbert,AZ,35,0.6354,0.7079,1
+,Elizabeth Davis,Miwok 100K WaitList,Female,47,San Anselmo,CA,19,0.7608,0.8413,7
+,Jon Davis,Miwok 100K WaitList,Male,43,Frederick,CO,36,0.6535,0.6839,3
+,Kristen Davis,Miwok 100K WaitList,Female,43,Longmont,CO,9,0.6255,0.5799,4
+106,Garrett De Witt,Miwok 100K,Male,35,Salinas,CA,3,0.7135,0.7619,1
+107,Travis Deadman,Miwok 100K,Male,34,San Bernardino,CA,2,0.6576,0.0,1
+,Timothy Decker,Miwok 100K WaitList,Male,54,New York,NY,30,0.6801,0.7563,2
+108,Sierra DeGroff,Miwok 100K,Female,32,Las Vegas,NV,49,0.7999,0.8879,1
+,Nicolas Deguines,Miwok 100K WaitList,Male,29,San Francisco,CA,12,0.7435,0.8333,1
+,Emmett Delaney,Miwok 100K WaitList,Male,56,Reston,VA,39,0.6743,0.7857,1
+109,Kate Dettelbach,Miwok 100K,Female,26,Arlington,VA,2,0.0,0.0,2
+110,Brandon Dey,Miwok 100k plus 18 week Training Plan,Male,46,Reno,NV,45,0.5905,0.6339,2
+112,Anabela Diaz,Miwok 100K,Female,44,San Rafael,CA,24,0.7879,0.8398,1
+113,Isabel Diaz,Miwok 100K,Female,38,San Rafael,CA,27,0.9187,0.9544,1
+114,Franz Dill,Miwok 100k plus 18 week Training Plan,Male,47,Moss Beach,CA,74,0.7313,0.7836,1
+115,Jerry Dischler,Miwok 100K,Male,50,Mountain View,CA,21,0.7237,0.7981,1
+116,Samantha Dong,Miwok 100K,Female,45,New York,NY
+,Brian Dorgan,Miwok 100K WaitList,Male,40,Eatontown,NJ,4,0.7695,0.7843,2
+117,Conor Drewes,Miwok 100K,Male,24,Incline Village,NV,38,0.8152,0.896,1
+,Matthew Driggers,Miwok 100K WaitList,Male,37,San Francisco,CA,1,0.5016,0.0,1
+118,Ian Driver,Miwok 100K,Male,39,San Francisco,CA,22,0.9079,0.9403,1
+119,Omar Droubi,Miwok 100K,Male,51,El Granada,CA,37,0.5815,0.6867,1
+,Sara Dugan,Miwok 100K WaitList,Female,31,Castro Valley,CA,10,0.7201,0.7489,1
+120,Ian Dunne,Miwok 100K,Male,50,San Francisco,CA,1,0.0,0.0,3
+121,Lindsey Dwyer,Miwok 100K,Female,31,Larkspur,CA,8,0.9555,0.9978,1
+122,Ash Dyer,Miwok 100K,Male,39,Draper,UT,4,0.5083,0.4661,1
+,Forrest Eber,Miwok 100K WaitList,Male,45,Santa Rosa,CA,16,0.7477,0.8242,1
+123,Adler Edward,Miwok 100K,Male,36,Boulder,CO,6,0.6644,0.6841,1
+,KLAS EKLOF,Miwok 100K WaitList,Male,52,Oakland,CA,97,0.7826,0.8357,1
+124,Ralf Elsaesser,Miwok 100K,Male,48,Millbrae,CA,36,0.7269,0.8014,1
+,Alyson Eng,18-week Training Plan,Female,29,Monterey,CA,7,0.7954,0.8573,1
+125,Alyson Eng,Miwok 100K,Female,29,Monterey,CA,7,0.7954,0.8573,1
+126,Katie Enriquez,Miwok 100K,Female,32,Redwood City,CA,3,0.6627,0.799,1
+127,Andrew Erwin,Miwok 100K,Male,33,Pasadena,CA,1,0.7499,0.7579,2
+128,Walter Escalante,Miwok 100K,Male,41,Northridge,CA,11,0.8076,0.8782,1
+129,Toby Estler,Miwok 100K,Male,58,Gig Harbor,WA,25,0.6187,0.7364,1
+130,Nick Eugster,Miwok 100K,Male,47,Long Lake,MN,8,0.8735,0.8748,1
+,Sarah Evans,Miwok 100K WaitList,Female,43,Corte Madera,CA,16,0.8691,0.9155,10
+131,Chris Favro,Miwok 100K,Male,53,Marietta,GA,19,0.7434,0.8385,1
+132,Phillip Fenty,Miwok 100K,Male,33,Washington,DC,2,0.6079,0.6079,2
+,James Ferguson,Miwok 100K WaitList,Male,37,Cockeysville,MD,1,0.653,0.653,8
+133,Kevin Ferret,Miwok 100k plus 18 week Training Plan,Male,34,San Francisco,CA,21,0.7213,0.7644,1
+,Sam Fiandaca,Miwok 100K WaitList,Male,51,Foresthill,CA,129,0.6249,0.6959,2
+134,Yatika Fields,Miwok 100K,Male,42,Tulsa,OK,34,0.7825,0.8127,1
+,Sean Flanagan,Miwok 100K WaitList,Male,43,Truckee,CA,31,0.6572,0.6812,2
+135,Mary Ann Flemmer,Miwok 100K,Female,63,Auburn,CA,66,0.6621,0.8137,1
+136,Helen Fong Martin,Miwok 100k plus 18 week Training Plan,Female,42,Auburn,CA,1,0.6221,0.8835,1
+137,Blair Ford,Miwok 100K,Male,51,Atherton,CA,12,0.7061,0.7963,2
+138,Christina Forehand,Miwok 100K,Female,39,Sacramento,CA,11,0.6654,0.6953,1
+,Alannah Fotheringham,Miwok 100K WaitList,Female,32,Vancouver,BC,14,0.6555,0.7429,2
+139,Kevin Fox,Miwok 100K,Male,42,Midland,TX,8,0.7732,0.8041,5
+140,Kristin Fracchia,Miwok 100K,Female,39,San Anselmo,CA,15,0.8749,0.936,1
+,Melissa Frayer,18-week Training Plan,Female,36,San Rafael,CA,11,0.7041,0.7097,1
+141,Paul Frazer,Miwok 100K,Male,46,Indianapolis,IN,15,0.6275,0.6772,1
+143,Eben Freeman,Miwok 100K,Male,32,Mammoth Lakes,CA,4,0.8251,0.8251,1
+142,Molly Freeman,Miwok 100K,Female,46,Decatur,GA,91,0.8722,0.9151,1
+144,Eric Frey,Miwok 100K,Male,43,Memphis,TN,11,0.9066,0.9257,4
+145,Kyle Fulmer,Miwok 100K,Male,41,Boulder,CO,53,0.72,0.7695,1
+146,Alex Fyfe,Miwok 100K,Male,45,San Francisco,CA,16,0.8238,0.8253,2
+148,Sonny Gamble,Miwok 100K,Male,35,Mill Valley,CA,4,0.8829,0.8829,1
+149,Sean Garbutt,Miwok 100K,Male,31,Sacramento,CA,44,0.6784,0.7491,1
+150,Gabriel Garcia,Miwok 100K,Male,49,San Luis Obispo,CA,5,0.5851,0.6836,6
+151,Ivonne Garcia,Miwok 100K,Female,35,San Francisco,CA,25,0.6691,0.7221,2
+152,Jennifer Garrison,Miwok 100K,Female,36,FarmingtonFarmington,UT,11,0.6291,0.6729,3
+153,Mick Garrison,Miwok 100K,Male,45,FarmingtonFarmington,UT,20,0.5604,0.6432,1
+,Nick Gartner,Miwok 100K WaitList,Male,48,Walnut Creek,CA,9,0.7651,0.8111,1
+,Carolynn Gellings,18-week Training Plan,Female,42,Brookfield,WI,2,0.5715,0.5487,1
+,Alexander George,Miwok 100K WaitList,Male,34,Pacifica,CA,2,0.7304,0.8384,1
+154,David Geraghty,Miwok 100K,Male,56,Redmond,WA,29,0.7605,0.8783,1
+,Cambria Gersten,Miwok 100K WaitList,Female,43,San Francisco,CA,3,0.7648,0.0,2
+155,Dan Glass,Miwok 100k plus 18 week Training Plan,Male,53,Fernley,NV,2,0.6167,0.6875,1
+156,Theneshia Glaze,Miwok 100k plus 18 week Training Plan,Female,46,Edwardsville,IL,4,0.6083,0.688,1
+157,Caroline Glazer,Miwok 100K,Female,28,Woodside,CA,11,0.7969,0.8758,1
+,Daniel Goddard,Miwok 100K WaitList,Male,38,North Vancouver,BC,22,0.7927,0.8387,2
+158,Jose Godinez Menjivar,Miwok 100K,Male,43,North Hills,CA
+159,EUJIN GOH,Miwok 100K,Male,46,Menlo Park,CA
+160,Gwen Golaszewski,Miwok 100K,Female,35,Louisville,CO,16,0.9273,0.9555,2
+,Neale Gold,Miwok 100K WaitList,Female,45,San Diego,CA,17,0.6889,0.7265,1
+161,Emilie Goldman,Miwok 100k plus 18 week Training Plan,Female,54,San Carlos,CA,25,0.6224,0.7746,1
+162,Thomas Golembeski,Miwok 100K,Male,49,West Hartford,CT
+163,Russell Gong,Miwok 100K,Male,47,San Francisco,CA,65,0.7295,0.7902,2
+164,Annie Graham,Miwok 100K,Female,27,Santa Barbara,CA,1,0.7533,0.7533,3
+,Becky Grebosky,Miwok 100K WaitList,Female,56,Ashland,OR,45,0.7078,0.873,1
+165,Justin Greene,Miwok 100K,Male,49,Buellton,CA,26,0.6834,0.7965,4
+166,Francois Grenier,Miwok 100K,Male,41,Mill Valley,CA,15,0.6369,0.6675,1
+167,Nikaeda Griffie,Miwok 100k plus 18 week Training Plan,Female,47,Akron,OH,5,0.6123,0.6376,2
+168,Richard Griffin,Miwok 100K,Male,52,Durham,NC,4,0.6112,0.6598,5
+169,Ana Grijalvo,Miwok 100K,Female,46,Moss Beach,CA,19,0.8889,0.976,1
+,Matthew Grogan,Miwok 100K WaitList,Male,35,Hayden,ID,3,0.8121,0.6938,1
+170,Rebecca Guenther,Miwok 100K,Female,43,San Jose,CA,22,0.7767,0.8859,1
+171,Brian Gully,Miwok 100K,Male,44,Mill Valley,CA,4,0.6643,0.7135,1
+172,Forbes Guthrie,Miwok 100K,Male,50,Aptos,CA,32,0.6402,0.7198,1
+173,Ron Gutierrez,Miwok 100K,Male,55,San Francisco,CA,116,0.8537,0.9254,1
+,Susy Gutierrez,Miwok 100K WaitList,Female,47,Murrieta,CA,42,0.7252,0.7829,1
+174,Aurelio Guzman,Miwok 100K,Male,36,ChicoChico,CA,8,0.7756,0.7959,1
+175,Dana Hagist,Miwok 100K,Male,39,El Dorado Hills,CA,1,0.5141,0.5228,2
+176,Elijah Hall,Miwok 100K,Male,50,Sacramento,CA,70,0.7522,0.826,1
+177,Paula Hamilton,Miwok 100K,Female,60,Carmichael,CA,83,0.7767,0.8942,3
+178,Patricia Hammond,Miwok 100K,Female,60,Point Arena,CA,6,0.6198,0.842,1
+179,Sean Handel,Miwok 100K,Male,52,Half Moon Bay,CA,14,0.9192,0.9684,1
+180,Marisol Camarena Hanley,Miwok 100K,Female,47,Dana Point,CA,1,0.545,0.0,1
+181,Alex Harary,Miwok 100K,Male,42,Sacramento,CA,12,0.6024,0.6792,1
+182,Madison Hart,Miwok 100K,Female,25,Boulder,CO,29,0.9171,0.9475,1
+,Nina Hartley,18-week Training Plan,Female,23,Broomfield,CO,1,0.0,0.0,2
+183,Nina Hartley,Miwok 100K,Female,23,Broomfield,CO,1,0.0,0.0,2
+184,Matt Hawkins,Miwok 100K,Male,50,Brentwood,TN,44,0.7167,0.7958,2
+185,Eddy Healey,Miwok 100K,Male,33,Greenwich,CT,3,0.8807,0.9167,1
+186,Brian Helm,Miwok 100K,Male,46,Truckee,CA,9,0.6321,0.6614,2
+,Max Hepp-Buchanan,Miwok 100K WaitList,Male,41,Richmond,VA,8,0.6138,0.6769,1
+187,Jonathan Herczeg,Miwok 100K,Male,42,Mill Valley,CA,7,0.631,0.6781,2
+188,Zachary Herhold,Miwok 100K,Male,32,San Jose,CA,2,0.7455,0.0,1
+189,Froilan Hernandez,Miwok 100K,Male,47,San Rafael,CA,2,0.7583,0.7583,2
+190,Guy Herr,Miwok 100K,Male,54,Laguna Niguel,CA,36,0.7348,0.8636,1
+191,David Hettena,Miwok 100K,Male,36,San Francisco,CA,16,0.8025,0.8533,1
+,Jessica Hewitt,Miwok 100K WaitList,Female,38,Seattle,WA,18,0.7582,0.7987,2
+,Devin Higgins,Miwok 100K WaitList,Male,39,Sacramento,CA,10,0.673,0.7222,1
+192,Matt Holt,Miwok 100K,Male,40,Truckee,CA,1,0.0,0.0,3
+,Eran Hood,Miwok 100K WaitList,Male,54,Juneau,AK,8,0.8202,0.893,1
+193,Tim Hooey,Miwok 100K,Male,43,Folsom,CA,4,0.6792,0.7263,1
+194,AARON HOPE,Miwok 100K,Male,41,San Luis Obispo,CA,10,0.8712,0.8927,1
+195,Felix Hopper,Miwok 100K,Male,57,Dixon,CA,53,0.7503,0.9313,2
+196,Emily Hren,Miwok 100K,Female,32,Oakland,CA,1,0.9795,0.0,1
+197,Chung-Che Huang,Miwok 100K,Male,50,Cupertino,CA,12,0.7439,0.8361,1
+198,Alex Hudgins,Miwok 100K,Male,40,San Francisco,CA,29,0.8508,0.8812,1
+199,Samuel Hughes,Miwok 100K,Male,28,Soquel,CA,3,0.5183,0.637,3
+200,Alexander Humenetskyj,Miwok 100K,Male,43,Truckee,CA,24,0.6743,0.7108,1
+201,Marcus Humphrey,Miwok 100k plus 18 week Training Plan,Male,42,Baltimore,MD
+202,Steven Hunter,Miwok 100K,Male,53,Orangeville,ON,17,0.7095,0.7831,4
+203,Meggie Inouye,Miwok 100K,Female,39,Truckee,CA,10,0.7688,0.816,1
+,Jason Jackson,Miwok 100K WaitList,Male,41,Chicago,IL,4,0.6661,0.7004,7
+205,Jenny Jacox,Miwok 100K,Female,41,Monterey,CA,11,0.9153,0.9507,1
+,Mike Jacox,Miwok 100K WaitList,Male,40,Monterey,CA,4,0.8544,0.8995,1
+,Michael Jenkins,Miwok 100K WaitList,Male,42,Federal Way,WA,7,0.89,0.9211,6
+206,TONY JENSEN,Miwok 100K,Male,55,Reno,NV,38,0.6066,0.7413,2
+207,Tonya Jolin,Miwok 100K,Female,41,Mill Valley,CA,1,0.0,0.0,1
+208,Christopher Jolly,Miwok 100k plus 18 week Training Plan,Male,32,Washington,DC,5,0.6986,0.694,2
+210,Chris Jones,Miwok 100K,Male,51,Sonoma,CA,218,0.7226,0.7951,23
+209,Errol Jones,Miwok 100K,Male,73,Oakland,US,176,0.7364,0.8796,2
+,SHAWNEE JONES,Miwok 100K WaitList,Female,47,MENDOCINO,CA,9,0.6098,0.6446,1
+211,Michael Judson,Miwok 100K,Male,52,Belvedere Tiburon,CA,10,0.5531,0.616,1
+,Kaitlyn Kacsuta,Miwok 100K WaitList,Female,35,Brooklyn,NY,8,0.9384,0.9765,1
+213,Jon Kalin,Miwok 100k plus 18 week Training Plan,Male,56,Danville,CA,6,0.7492,0.9301,1
+214,Max Kam,Miwok 100K,Male,36,San Rafael,CA,40,0.7655,0.7929,1
+,Betsy Kapiloff,18-week Training Plan,Female,63,Sandia Park,NM,78,0.6409,0.7528,1
+,Roni Kauri,Miwok 100K WaitList,Male,55,Monroe,WA,85,0.8719,0.9434,1
+215,Thomas Kean,Miwok 100K,Male,28,Bellingham,WA,13,0.8982,0.9184,1
+216,Daniel Kelley,Miwok 100K,Male,45,Waban,MA,3,0.5385,0.6314,1
+217,Bridget Khatchatoorian,Miwok 100K,Female,40,Arlington,VA,2,0.7846,0.0,1
+218,Ngugi Kihara,Miwok 100k plus 18 week Training Plan,Male,37,La Honda,CA,3,0.6733,0.6599,1
+219,Jake Kilgore,Miwok 100K,Male,44,Kaysville,UT,17,0.7361,0.7952,1
+220,Evan Kimber,Miwok 100K,Male,46,Superior,CO,61,0.8418,0.8907,1
+221,Kathryn Kirby,Miwok 100K,Female,46,Palo Alto,CA,17,0.7095,0.8185,2
+,Jenni Kirk,Miwok 100K WaitList,Female,43,San Francisco,CA,38,0.6828,0.7261,1
+222,Amanda Klebba,Miwok 100K,Female,26,Denver,CO,5,0.8519,0.8664,2
+223,Alicia Kletter,Miwok 100K,Female,48,San Francisco,CA,13,0.7307,0.7767,1
+224,Alana Klingman,Miwok 100K,Female,40,Fair Oaks,CA,4,0.6851,0.7319,1
+225,Mark Klink,Miwok 100K,Male,54,El Cerrito,CA,18,0.6423,0.7619,1
+226,Don Knight,Miwok 100K,Male,41,Pittsburgh,PA,24,0.6478,0.6901,1
+,Kelly Knopp,Miwok 100K WaitList,Female,40,San Jose,CA,12,0.7184,0.8178,1
+,Gus Kodsi,Miwok 100K WaitList,Male,59,Rancho Santa Margarita,CA,17,0.6993,0.8781,1
+227,Melanie Koehl,Miwok 100K,Female,53,Honolulu,HI,37,0.7844,0.9445,2
+228,Silke Koester,Miwok 100K,Female,40,Boulder,CO,60,0.8949,0.9352,2
+,Timothy Kojetin,Miwok 100K WaitList,Male,33,Denver,CO,9,0.8239,0.865,1
+229,Dallas Koller,Miwok 100K,Male,32,Chico,CA,1,1.0,1.0,1
+230,Daniel Kono,Miwok 100K,Male,54,Berkeley,CA,63,0.8597,0.9542,1
+,Hollis Kool,Miwok 100K WaitList,Female,26,San Francisco,CA,3,0.7296,0.819,1
+,Carl Koopmans,Miwok 100K WaitList,Male,34,Seattle,WA,17,0.8577,0.8922,1
+,Lowell Koppel,Miwok 100K WaitList,Male,50,Flower Mound,TX,19,0.8275,0.8857,1
+231,Kim Kortz,Miwok 100k plus 18 week Training Plan,Female,58,Folsom,CA,118,0.8347,0.9229,3
+232,Jeffrey Kosbie,Miwok 100K,Male,39,San Jose,CA,1,0.6528,0.8081,1
+,Allegra Krasznekewicz,Miwok 100K WaitList,Female,31,SAN FRANCISCO,CA,9,0.8558,0.8888,1
+233,Muriel Bartelme Kreske,Miwok 100K,Female,48,Minneapolis,MN,6,0.5991,0.6684,1
+,Simone Krishan,18-week Training Plan,Female,41,Nuernberg,BY,2,0.5491,0.0,1
+,Simone Krishan,Miwok 100K WaitList,Female,41,Nuernberg,BY,2,0.5491,0.0,1
+,Andy Krone,Miwok 100K WaitList,Male,45,San Rafael,CA
+234,Dan Krotz,Miwok 100K,Male,52,Albany,CA,18,0.6324,0.6891,1
+235,Nicholas Kuneman,Miwok 100K,Male,35,Denver,CO
+236,Lindsey Kupfer,Miwok 100K,Female,36,Olympia,WA,2,0.7092,0.7092,2
+237,Kevin Kurz,Miwok 100K,Male,39,Mission Viejo,CA,2,0.5682,0.5682,1
+,Yu Kuwabara,Miwok 100K WaitList,Male,43,Ashland,OR,18,0.8181,0.8702,2
+,Karen Laberee,18-week Training Plan,Female,51,Victoria,BC,11,0.7817,0.8919,2
+238,Karen Laberee,Miwok 100K,Female,51,Victoria,BC,11,0.7817,0.8919,2
+239,Martin Lachance,Miwok 100K,Male,50,Montreal,QC,21,0.6946,0.7898,1
+,Christian LaCour,Miwok 100K WaitList,Male,36,Dixon,CA,10,0.7761,0.8751,1
+240,Zack Laher,Miwok 100K,Male,36,Kentfield,CA,8,0.6431,0.7156,1
+241,David Lam,Miwok 100K,Male,38,San Francisco,CA,9,0.7224,0.7725,6
+,Zack Lamb,Miwok 100K WaitList,Male,47,Littleton,CO,22,0.5638,0.6282,1
+242,Bree Lambert-Sanders,Miwok 100K,Female,54,San Josep,CA,103,0.9171,0.9663,1
+243,Lisa Langdale,Miwok 100K,Female,46,Windsor,CA,7,0.6137,0.7185,1
+244,Kevin Lara,Miwok 100K,Male,32,Anaheim,CA,9,0.6307,0.6408,2
+245,Seth LaReau,Miwok 100K,Male,37,Dublin,CA,16,0.6173,0.655,1
+,Gregory Larkin,Miwok 100K WaitList,Male,55,Rocklin,CA
+248,Brett Larsen,Miwok 100K,Male,59,Santa Barbara,CA,29,0.6303,0.7636,1
+247,Tim Larsen,Miwok 100K,Male,51,San Rafael,CA,70,0.7194,0.7765,1
+246,Tyler Larsen,Miwok 100K,Male,25,San Francisco,CA,2,0.563,0.563,2
+249,Carolyn Latham,Miwok 100K,Female,36,San Anselmo,CA,5,0.9002,0.9221,1
+250,Scott Lawrence,Miwok 100K,Male,59,Seattle,WA,29,0.7196,0.8891,4
+251,Sheena Le,Miwok 100K,Female,40,Daly City,CA,10,0.6064,0.6615,1
+,Jonathan Lebruto,18-week Training Plan,Male,43,Silver Spring,MD,3,0.6218,0.7243,1
+252,Jonathan Lebruto,Miwok 100K,Male,43,Silver Spring,MD,3,0.6218,0.7243,1
+253,Yurie Lee,Miwok 100k plus 18 week Training Plan,Female,42,Martinez,CA,23,0.7337,0.8065,1
+,Joe Lengfellner,Miwok 100K WaitList,Male,44,Cortlandt Manor,NY,7,0.6934,0.748,1
+254,Jade Lenning,Miwok 100K,Female,31,Vancouver,BC,19,0.792,0.8989,1
+255,Jenna Lepisto,Miwok 100K,Female,48,Waterford,WI,5,0.6514,0.7243,2
+256,Steven Leung,Miwok 100K,Male,33,Pasadena,CA,4,0.6777,0.7554,1
+258,Bob Levin,Miwok 100K,Male,63,Elk Grove,CA,26,0.6811,0.8931,1
+257,Elizabeth Levin,Miwok 100K,Female,58,Elk Grove,CA,32,0.7531,0.8712,2
+259,Douglas Lewis,Miwok 100K,Male,59,Kamas,UT,13,0.7875,0.9063,2
+,Brian Long,Miwok 100K WaitList,Male,43,San Diego,CA,26,0.7502,0.7925,5
+260,Javier Lopez,Miwok 100K,Male,48,Novato,CA,29,0.7045,0.7825,6
+261,Benjamin Lord,Miwok 100K,Male,34,San Francisco,CA,25,0.5997,0.6527,1
+262,Amber Louque,Miwok 100K,Female,23,Los Alamitos,CA,1,0.7862,1.0,2
+263,Guy Love,Miwok 100K,Male,32,Boulder,CO,62,0.8098,0.8638,1
+265,Qi Lu,Miwok 100K,Female,43,Milpitas,CA,2,0.816,0.8363,2
+264,Zhenfei Lu,Miwok 100K,Male,46,Fremont,CA,7,0.6744,0.7706,1
+267,Caitlin Lutz,Miwok 100K,Female,29,San Francisco,CA,8,0.7658,0.7693,1
+266,Heather Lutz,Miwok 100K,Female,40,Corte Madera,CA,6,0.8752,0.9062,2
+,Heather Lutz,18-week Training Plan,Female,40,Corte Madera,CA,6,0.8752,0.9062,2
+268,Edward Lyon,Miwok 100K,Male,42,Santa Rosa,CA,2,0.8363,0.8448,1
+,Samuel M Patterson,Miwok 100K WaitList,Male,49,Shingle Springs,CA
+,John Maack,Miwok 100K WaitList,Male,62,Draper,UT,78,0.666,0.8343,1
+270,Annie Macdonald,Miwok 100K,Female,47,Farmington,UT,45,0.6201,0.7137,1
+269,Brad Macdonald,Miwok 100K,Male,45,Farmington,UT,26,0.7012,0.7403,3
+271,Jose Macias,Miwok 100K,Male,45,Clovis,CA,8,0.6149,0.681,3
+272,Melanie Maciel,Miwok 100K,Female,46,Folsom,CA,2,0.6765,0.7151,1
+,Scott Macintyre,Miwok 100K WaitList,Male,46,San Francisco,CA,53,0.6388,0.6714,1
+273,Monica Madsen,Miwok 100K,Female,43,Richmond,CA,11,0.7641,0.7945,2
+274,Kim Magnus,Miwok 100K,Female,39,Burnaby,BC,33,0.9667,0.9685,1
+275,Jennifer Maier,Miwok 100K,Female,41,Bend,OR,3,0.6086,0.8798,2
+276,Andrew Manaster,Miwok 100K,Male,31,Longmont,CO,34,0.8286,0.8801,1
+277,Robert Mann,Miwok 100K,Male,48,Berkeley,CA,12,0.651,0.7791,4
+278,Amy Margolis,Miwok 100K,Female,51,Sisters,OR,45,0.7076,0.8213,2
+,Jay MARSH,Miwok 100K WaitList,Male,59,Cool,CA,59,0.6412,0.7702,1
+,Rodney Martin,18-week Training Plan,Male,52,San Leandro,CA,35,0.8219,0.9209,2
+279,Rodney Martin,Miwok 100k plus 18 week Training Plan,Male,52,San Leandro,CA,35,0.8219,0.9209,2
+280,Julian Martinez,Miwok 100K,Male,61,Oakland,CA,109,0.5963,0.6866,3
+281,Petr Martynov,Miwok 100K,Male,28,Berkeley,CA,3,0.9931,0.9897,1
+,Jacob Martzahn,Miwok 100K WaitList,Male,47,Oakland,CA,22,0.5509,0.59,1
+,Alex Massey,Miwok 100K WaitList,Male,35,San Francisco,CA,11,0.6546,0.7019,2
+,Stephen Massey,Miwok 100K WaitList,Male,41,Las Vegas,NV,47,0.7457,0.7873,1
+,Jason Matsuoka,Miwok 100K WaitList,Male,42,Vallejo,CA,9,0.6725,0.7298,2
+283,Mackenzie Mau,Miwok 100K,Male,36,Denver,CO,24,0.8055,0.8007,2
+282,Maighdlin Mau,Miwok 100K,Female,33,San Anselmo,CA,13,0.7966,0.8225,2
+284,Thomas May,Miwok 100K,Male,58,Denver,CO,2,0.4467,0.0,1
+,Martin McAuley,Miwok 100K WaitList,Male,51,San FranciscoSan Francisco,CA,101,0.6562,0.7367,2
+285,John McCabe,Miwok 100K,Male,51,Stamford,CT,13,0.6641,0.7441,4
+286,Carolyn McCarter,Miwok 100K,Female,66,Auburn,CA,36,0.636,0.7943,1
+,Floyd McCluhan,Miwok 100K WaitList,Male,23,Berkeley,CA,13,0.7074,0.8926,1
+,Chris McFall,Miwok 100K WaitList,Male,41,Brooklyn,NY
+287,Owen Mcgrath,Miwok 100K,Male,39,Boulder,CO,1,0.7472,0.8209,1
+288,Ruth McGrath,Miwok 100K,Female,50,Carmichael,CA,16,0.6888,0.7665,1
+289,Abby McKee,Miwok 100K,Female,53,Rocklin,CA,54,0.8275,0.9102,1
+290,Jeff McPherson,Miwok 100K,Male,48,Independence,OR,47,0.6414,0.7328,2
+291,Matthew Mddina@gmail.com,Miwok 100K,Male,45,Sausalito,CA
+,Chris Mead,18-week Training Plan,Male,52,Los Angeles,CA,50,0.7124,0.7795,5
+292,Chris Mead,Miwok 100K,Male,52,Los Angeles,CA,50,0.7124,0.7795,5
+,Arturo Mercado Virgen,Miwok 100K WaitList,Male,47,CDMX,DIF,2,0.4861,0.5242,1
+,Kate Metcalf,Miwok 100K WaitList,Female,37,San Jose,CA,6,0.6079,0.6476,2
+293,Lynn Miao,Miwok 100K,Female,28,New York,NY,3,0.653,0.7288,1
+294,Josh Mick,Miwok 100K,Male,46,San Jose,CA,5,0.6774,0.8179,1
+,Autumn Middleton,Miwok 100K WaitList,Female,32,Sacramento,CA,32,0.6609,0.7956,1
+296,Eila Miller,Miwok 100K,Female,29,Encinitas,CA,6,0.7686,0.8508,2
+295,Greg Miller,Miwok 100K,Male,45,Half Moon Bay,CA,13,0.8942,0.9287,10
+297,Kelly Miller,Miwok 100K,Female,51,Portland,OR,22,0.6858,0.8778,12
+298,Elijah Minter,Miwok 100k plus 18 week Training Plan,Male,32,Washington,DC,2,0.6413,0.6091,2
+,Eric Miya,Miwok 100K WaitList,Male,30,Sonora,CA,16,0.9136,0.899,1
+299,Mike Molakides,Miwok 100K,Male,54,San Rafael,CA,34,0.6762,0.7396,1
+,Mike Molakides,18-week Training Plan,Male,54,San Rafael,CA,34,0.6762,0.7396,1
+300,Anthony Molina,Miwok 100K,Male,51,West Sacramento,CA,27,0.6491,0.7363,2
+301,Jorge Montenegro-Paredes,Miwok 100K,Male,53,Los Angeles,CA,15,0.6196,0.818,1
+302,Ben Moore,Miwok 100K,Male,32,San Francisco,CA,7,0.6935,0.7051,9
+303,Peter Moore,Miwok 100K,Male,35,San Francisco,CA,25,0.7234,0.7986,5
+304,Sam Morgan,Miwok 100K,Male,38,San Jose,CA,14,0.8766,0.9086,3
+,Justin Morris,Miwok 100K WaitList,Male,41,Hoover,AL,90,0.6727,0.7167,5
+305,Daniel Mott,Miwok 100K,Male,37,Colorado Springs,CO,4,0.7787,0.7877,1
+306,John Muir,Miwok 100K,Male,44,Whitefish,MT,58,0.8668,0.9362,3
+307,Himagiri Mukkamala,Miwok 100K,Male,49,Pleasanton,CA,50,0.5785,0.648,1
+308,Brian Mulholand,Miwok 100K,Male,40,Concord,CA,60,0.6143,0.6516,2
+309,Weston Mullins,Miwok 100k plus 18 week Training Plan,Male,36,Pleasanton,CA,3,0.8214,0.7032,1
+310,James Muntz,Miwok 100K,Male,48,Bend,OR,1,0.4676,0.4948,1
+311,Faith Murphy,Miwok 100K,Female,43,Pollock Pines,CA,3,0.749,0.0,1
+312,Sara Myre,Miwok 100K,Female,33,Portland,OR,27,0.8398,0.8608,1
+313,Steve Nagayama,Miwok 100K,Male,48,Felton,CA,32,0.6573,0.7505,1
+314,Rafal Nazarewicz,Miwok 100K,Male,49,San Rafael,CA,33,0.7705,0.8909,1
+315,Eric Nelson,Miwok 100K,Male,48,Kaysville,UT,66,0.7081,0.7873,17
+,Heidi Newell,Miwok 100K WaitList,Female,48,UkiahUkiah,CA,1,0.611,0.6843,1
+,Heidi Newell,18-week Training Plan,Female,48,UkiahUkiah,CA,1,0.611,0.6843,1
+316,Dan Newman,Miwok 100K,Male,54,San Francisco,CA,42,0.6647,0.8035,2
+318,Dustin Nguyen,Miwok 100K,Male,31,San Leandro,CA,1,0.4098,0.4098,1
+319,Elyse Nguyen,Miwok 100K,Female,32,La Mesa,CA,10,0.6719,0.7113,1
+317,Joshua Nguyen,Miwok 100K,Male,37,Castro Valley,CA,1,0.4784,0.4784,1
+320,Samuel Nickelsen,Miwok 100K,Male,45,Berkeley,CA,25,0.7495,0.8175,1
+,David Nieman,Miwok 100K WaitList,Male,40,Clayton,CA,3,0.7481,0.0,1
+321,Breena Nolan,Miwok 100K,Female,42,Novato,CA,1,0.6459,0.7148,1
+,Breena Nolan,18-week Training Plan,Female,42,Novato,CA,1,0.6459,0.7148,1
+322,Christine Noordam,Miwok 100K,Female,62,San Jose,CA,20,0.685,0.8761,1
+,Eric Norling,18-week Training Plan,Male,28,Phoenix,AZ,17,0.616,0.7685,1
+323,Eric Norling,Miwok 100K,Male,28,Phoenix,AZ,17,0.616,0.7685,1
+,Michael North,Miwok 100K WaitList,Male,36,Anaheim,CA,6,0.5287,0.728,1
+,Marina Nunez,Miwok 100K WaitList,Female,32,El Sobrante,CA
+324,Jamey Nye,Miwok 100k plus 18 week Training Plan,Male,49,Sacramento,CA,30,0.7232,0.7946,3
+325,Serena O'Brien,Miwok 100K,Female,30,Napa,CA,1,0.5205,0.6099,1
+326,Raymond O'Dea,Miwok 100K,Male,56,El Cerrito,CA,16,0.6932,0.8444,1
+,Raymond O'Dea,18-week Training Plan,Male,56,El Cerrito,CA,16,0.6932,0.8444,1
+327,Jessica O'Rear,Miwok 100K,Female,56,Redwood City,CA,39,0.7768,0.9544,1
+,Doug Oatis,Miwok 100K WaitList,Male,42,Denver,CO,34,0.6375,0.6713,1
+328,Johanna Ohm,Miwok 100k plus 18 week Training Plan,Female,31,Pacifica,CA,51,0.8751,0.9322,1
+329,Ibles Olcina,Miwok 100K,Male,30,Berkeley,CA,10,0.9082,0.9288,1
+330,Steven Oliphant,Miwok 100K,Male,62,Emerald Hills,CA,3,0.5711,0.7913,1
+332,Barbara Olmer,Miwok 100K,Female,47,Denver,CO,41,0.7104,0.7428,2
+331,Scott Olmer,Miwok 100K,Male,52,Denver,CO,72,0.6104,0.6709,1
+,Anna Olsen,Miwok 100K WaitList,Female,33,Truckee,CA,44,0.7603,0.8183,3
+,Ryan Ongerth,Miwok 100K WaitList,Male,48,Twin BridgesTwin Bridges,CA
+,Tomio Oshima,Miwok 100K WaitList,Male,52,Chandler,AZ,18,0.764,0.9068,1
+333,Santiago Ossa,Miwok 100K,Male,30,Palo Alto,CA,2,0.5017,0.5017,1
+334,Joel Oxman,Miwok 100K,Male,45,Greenbrae,CA,10,0.8388,0.9075,1
+335,Dylan Pan,Miwok 100K,Male,44,San Mateo,CA,3,0.6988,0.8625,1
+336,Eric Pang,Miwok 100K,Male,30,Seattle,WA,37,0.7082,0.7557,1
+337,Sarah Parkes,Miwok 100K,Female,38,Fresno,CA,23,0.692,0.7166,1
+,Conner Parsons,Miwok 100K WaitList,Male,34,Louisville,KY,8,0.9011,0.9106,2
+339,Keith Parsons,Miwok 100K,Male,50,Golden,CO,9,0.6563,0.6584,2
+,Jonathan Pascual,Miwok 100K WaitList,Male,48,Vallejo,CA,1,0.5862,0.0,1
+340,Jason Patent,Miwok 100K,Male,54,Albany,CA,66,0.7274,0.8642,1
+341,Kevin Patja,Miwok 100K,Male,47,Lincoln,CA,77,0.624,0.6908,1
+342,Matt Patterson,Miwok 100K,Male,33,Seattle,WA,8,0.7441,0.8039,5
+343,Adrian Paul,Miwok 100K,Male,40,San Leandro,CA,10,0.6908,0.7708,2
+,Dale Pauly,Miwok 100K WaitList,Male,37,Dublin,CA,5,0.5776,0.6222,1
+344,Karen Peabody,Miwok 100K,Female,53,Santa Barbara,CA,57,0.7828,0.8695,2
+345,Nick Pedatella,Miwok 100K,Male,37,Boulder,CO,65,0.8782,0.9101,1
+346,Gayle Pellizzer,Miwok 100k plus 18 week Training Plan,Female,40,Clovis,CA,19,0.8073,0.8653,1
+,Miguel Pena,Miwok 100K WaitList,Male,50,Houston,TX,23,0.6861,0.7475,3
+347,Joel Pennington,Miwok 100K,Male,42,Fairfax,CA,5,0.6831,0.8089,2
+348,Veronica Perez,Miwok 100K,Female,54,Sacramento,CA,38,0.6475,0.7457,3
+349,Kimberly Perricelli,Miwok 100K,Female,51,Mill Valley,CA,39,0.7164,0.8597,1
+,Leo Pershall,Miwok 100K WaitList,Male,46,Fairfax,CA,8,0.8968,0.9476,1
+,Nam Pham,Miwok 100K WaitList,Male,34,Los Angeles,CA,8,0.6319,0.6521,1
+,Scott Phillabaum,Miwok 100K WaitList,Male,54,San Francisco,CA,3,0.0,0.0,1
+350,Sky Pile,Miwok 100K,Male,47,Santa Rosa,CA,5,0.7571,0.8075,1
+351,Michael Pinola,Miwok 100K,Male,46,Lodi,CA,15,0.6088,0.6905,1
+352,Pradeep Plpise@gmail.com,Miwok 100K,Male,44,Livermore,CA
+353,Colette Plum,Miwok 100K,Female,56,Albany,CA,25,0.6546,0.8142,1
+354,Allegra Porter,Miwok 100k plus 18 week Training Plan,Female,40,Concord,CA,1,0.7011,0.7011,1
+355,Brady Poskin,Miwok 100K,Male,37,Kansas City,MO,49,0.9056,0.9338,1
+356,Philip Powers,Miwok 100K,Male,39,Brooklyn,NY,5,0.6447,0.6537,1
+357,Masharika Prejean Maddison,Miwok 100k plus 18 week Training Plan,Female,41,San Francisco,CA,3,0.7354,0.7967,1
+358,Ethan Quan,Miwok 100K,Male,23,San Francisco,CA,1,0.8073,0.8073,1
+359,Lori Quan,Miwok 100K,Female,55,San Francisco,CA,4,0.7798,0.881,1
+,Martin Quinn,Miwok 100K WaitList,Male,43,Burlingame,CA,8,0.7431,0.7913,3
+360,Benjamin Quock,Miwok 100K,Male,32,Washington,DC,1,0.8145,0.8554,1
+361,Nico Raffo,Miwok 100K,Male,41,Oakland,CA,54,0.7335,0.7868,1
+,Varun Rajagopal,Miwok 100K WaitList,Male,40,Austin,TX,10,0.527,0.5358,1
+,Jeff Ramos,Miwok 100K WaitList,Male,60,Folsom,CA,8,0.6416,0.7277,2
+362,Kirtee Raparia,Miwok 100K,Female,50,Palo Alto,CA,5,0.6351,0.7663,2
+363,Jason Rau,Miwok 100K,Male,43,Campbell,CA,2,0.6836,0.9046,1
+,Eve Rebennack,Miwok 100K WaitList,Female,44,Phoenix,AZ,54,0.84,0.8965,2
+364,Jessica Redditt,Miwok 100K,Female,40,Pinole,CA,2,0.8908,1.0,1
+,Marshall Reiss,Miwok 100K WaitList,Male,39,Oakland,CA,9,0.7374,0.7453,1
+365,Xiaoxia Ren,Miwok 100K,Female,48,Cupertino,CA
+366,Brian Reome,Miwok 100K,Male,36,Auburn,CA,5,0.5094,0.5094,1
+,Robert Ressl-Moyer,Miwok 100K WaitList,Male,36,Sacramento,CA
+367,Laura Richard,Miwok 100K,Female,53,San Anselmo,CA,51,0.8462,0.9107,1
+368,Thomas Richardson,Miwok 100K,Male,53,Seattle,WA,1,0.8469,0.9148,5
+369,Aaron Richter,Miwok 100K,Male,44,Reno,NV,18,0.5587,0.6071,2
+370,Stacie Riddle,Miwok 100K,Female,43,Mill Valley,CA,124,0.7374,0.8004,1
+371,Eric Riger,Miwok 100K,Male,42,San Anselmo,CA,7,0.6134,0.6705,1
+372,Robert Riley,Miwok 100K,Male,54,Walnut Creek,CA,3,0.5269,0.6062,7
+373,Nolan Ripple,Miwok 100K,Male,29,Seattle,WA,18,0.8637,0.9387,1
+374,Hugo Robas,Miwok 100K,Male,32,Berkeley,CA,6,0.9604,0.9505,1
+375,Ann Roberts,Miwok 100K,Female,59,Saint Petersburg,FL,9,0.7643,0.8521,4
+,Ann Roberts,18-week Training Plan,Female,59,Saint Petersburg,FL,9,0.7643,0.8521,4
+376,Karlyn Roberts,Miwok 100K,Female,36,Santa Barbara,CA,4,0.9106,1.0,2
+377,James Robertson,Miwok 100K,Male,48,Miami,FL,9,0.6525,0.7227,8
+378,Bethy Ronces,Miwok 100K,Female,58,Lafayette,CA,119,0.7304,0.8813,2
+,Hal Rosenberg,Miwok 100K WaitList,Male,51,Mill Valley,CA,23,0.6534,0.7514,1
+379,Katherine Rotow,Miwok 100K,Female,36,Portland,OR,33,0.8042,0.8469,2
+380,Cesare Rotundo,Miwok 100K,Male,58,Belvedere Tiburon,CA,37,0.7007,0.8228,1
+381,Anthony Rozales,Miwok 100K,Male,49,Tracy,CA,37,0.6565,0.7477,1
+382,Margaret Rudy,Miwok 100K,Female,31,San Francisco,CA,2,0.8675,0.9854,2
+383,Mari Russell,Miwok 100K,Female,58,San Clemente,CA,19,0.8025,0.8632,2
+,Micaela Russo,Miwok 100K WaitList,Female,32,Manzanita,OR,10,0.788,0.8038,1
+384,Scot Rutledge,Miwok 100K,Male,45,Las Vegas,NV,5,0.4532,0.7326,1
+,Michele Sage,18-week Training Plan,Female,39,Salt Lake City,UT,3,0.9158,0.9899,1
+385,Rachael Sage,Miwok 100K,Female,47,Montara,CA,11,0.7375,0.8191,1
+,Madison Salvati,Miwok 100K WaitList,Female,27,Durango,CO
+,Philip Sanderson,Miwok 100K WaitList,Male,55,Mill Valley,CA,98,0.776,0.8677,1
+387,Brianna Santos,Miwok 100K,Female,35,Travis Afb,CA,7,0.7744,0.7838,1
+388,Jennifer Schaffhouser,Miwok 100K,Female,35,Santa Cruz,CA,6,0.924,0.924,1
+,Dustin Schanz,Miwok 100K WaitList,Male,37,San Francisco,CA,8,0.6944,0.6965,2
+389,Penelope Schenkkan,Miwok 100K,Female,39,San Francisco,CA,18,0.7638,0.7953,2
+390,Karl Schmidt,Miwok 100K,Male,34,San Francisco,CA,8,0.7902,0.8198,3
+391,Becky Schreibfeder,Miwok 100K,Female,52,South Pasadena,CA,9,0.716,0.8593,1
+,Becky Schreibfeder,18-week Training Plan,Female,52,South Pasadena,CA,9,0.716,0.8593,1
+392,Dave Schulz,Miwok 100K,Male,50,Calgary,AB,7,0.7442,0.8301,2
+393,Anj McBeath Schuyler,Miwok 100K,Female,40,Los Gatos,CA
+394,Robert Schwartz,Miwok 100K,Male,38,Truckee,CA,38,0.8739,0.8966,2
+,Derek Sciacca,Miwok 100K WaitList,Male,48,Saint Paul,MN,12,0.7862,0.8326,1
+395,Cara Scott,Miwok 100K,Female,45,Diamond Springs,CA,35,0.6979,0.7663,1
+396,Shawn Selby,Miwok 100K,Male,51,Squamish,BC,1,0.6632,0.0,2
+,Nate Seltenrich,Miwok 100K WaitList,Male,40,Petaluma,CA,31,0.9129,0.9359,1
+397,Niloy Sen,Miwok 100K,Male,42,Danville,CA,70,0.6023,0.6475,1
+398,Jaymin Shah,Miwok 100K,Male,43,San Jose,CA,12,0.5808,0.6432,1
+399,Rachel Shebert,Miwok 100K,Female,28,Placerville,CA,32,0.7562,0.8009,2
+400,Sarah Sheefel,Miwok 100K,Female,32,Granite Bay,CA,73,0.7673,0.8714,3
+,Jianhui Shen,Miwok 100K WaitList,Male,35,Westfield,NJ,9,0.8195,0.906,1
+401,Amy Shertzer,Miwok 100K,Female,45,Monument,CO,13,0.8559,0.9472,2
+,Benjamin Shore,Miwok 100K WaitList,Male,41,Medford,MA,3,0.6352,0.6565,1
+402,Robert Simmerling,Miwok 100K,Male,28,Canmore,AB,2,0.7583,0.0,1
+403,Todd Simpson,Miwok 100K,Male,38,Bend,OR,12,0.8863,0.8911,1
+,Margaux Sindoni,Miwok 100K WaitList,Female,40,Soda Springs,CA,5,0.8112,0.8369,1
+,Pamela Skaufel,Miwok 100K WaitList,Female,49,Houston,TX,11,0.8379,0.9123,1
+,Amy Skeath,Miwok 100K WaitList,Female,38,Ventura,CA,6,0.5938,0.6069,1
+404,Anthony Snitker,Miwok 100K,Male,35,Monrovia,CA,15,0.7672,0.8101,1
+,Dmytro Sokolovskyy,Miwok 100K WaitList,Male,34,Moorpark,CA,20,0.6837,0.7115,1
+,Panya Somnhot,Miwok 100K WaitList,Male,41,Ashland,OR,67,0.6336,0.6719,1
+405,Beatrice Song,Miwok 100K,Female,61,Ashland,OR,116,0.8019,0.9139,1
+406,Zachary Sonoga,Miwok 100K,Male,33,Dearborn,MI,29,0.8275,0.8637,1
+,Peter Sorensen,Miwok 100K WaitList,Male,45,Berkeley,CA,10,0.8068,0.8632,5
+407,Brendan Soule,Miwok 100K,Male,38,Bend,OR,20,0.6507,0.7145,1
+,John Spannuth,Miwok 100K WaitList,Male,53,BremertonBREMERTON,WA,110,0.7307,0.8246,2
+,Eric Spector,18-week Training Plan,Male,76,Greenbrae,CA,24,0.5655,0.8963,1
+,Eric Spector,Miwok 100K WaitList,Male,76,Greenbrae,CA,24,0.5655,0.8963,1
+408,Rob Spinosa,Miwok 100K,Male,52,San Rafael,CA,6,0.7343,0.8682,2
+409,Alaina Star,Miwok 100K,Female,34,Sacramento,CA,19,0.6807,0.6783,1
+410,Brian Starr,Miwok 100K,Male,42,Saratoga Springs,UT,9,0.647,0.7005,3
+411,Andrew Stewart,Miwok 100K,Male,41,Mill Valley,CA,14,0.6169,0.6038,10
+,Kevin Stewart,Miwok 100K WaitList,Male,33,Gilroy,CA,14,0.9277,0.9725,9
+412,Andrea Stofko,Miwok 100K,Female,27,Salt Lake City,UT,11,0.849,0.9228,1
+,Leonard Strnad,Miwok 100K WaitList,Male,33,Boulder,CO,20,0.8207,0.8584,1
+,Aaron Stroud,Miwok 100K WaitList,Male,30,Durham,NC,13,0.7455,0.8059,1
+,Alexander Stroup,Miwok 100K WaitList,Male,48,San Leandro,CA,103,0.6019,0.6829,1
+,William Summer,18-week Training Plan,Male,53,San Francisco,CA,18,0.7963,0.9178,2
+413,Paul Sumner,Miwok 100K,Male,57,San Anselmo,CA,15,0.7085,0.8867,2
+414,Heather Sutherland,Miwok 100K,Female,51,Redwood City,CA,42,0.6895,0.7744,2
+415,Nobuya Takahashi,Miwok 100K,Male,42,RichmondRichmond,CA,18,0.7518,0.8067,1
+416,Bipul Talukdar,Miwok 100K,Male,49,San Jose,CA,61,0.6748,0.7537,1
+418,Jian Tang,Miwok 100K,Male,52,Cupertino,CA,23,0.589,0.7191,3
+417,Renjie Tang,Miwok 100K,Male,50,San Jose,CA,2,0.6414,0.6671,1
+419,Rebecca Teeters,Miwok 100K,Female,55,Folsom,CA,13,0.749,0.9162,1
+,Alan Teo,Miwok 100K WaitList,Male,44,Portland,OR,23,0.9036,0.9618,1
+420,Samantha Terry,Miwok 100K,Female,33,Durham,NC,25,0.7887,0.867,2
+,James Thomas,Miwok 100K WaitList,Male,23,San Rafael,CA,5,0.6324,0.7853,17
+422,Jeff Thompson,Miwok 100K,Male,27,Sausalito,CA,8,0.7692,0.8333,10
+421,Skye Thompson,Miwok 100K,Male,46,Mill Valley,CA,13,0.7311,0.792,1
+424,Amy Thomsen,Miwok 100K,Female,42,Grass Valley,CA,28,0.6812,0.739,2
+423,Scott Thomsen,Miwok 100K,Male,42,Grass Valley,CA,57,0.6605,0.7198,1
+425,Jake Thornton,Miwok 100K,Male,33,Birmingham,AL,70,0.7951,0.856,1
+426,Jennifer Tobits,Miwok 100K,Female,48,San Francisco,CA,17,0.7342,0.7896,2
+427,Steve Ton,Miwok 100K,Male,55,Sugar Land,TX,43,0.4932,0.6307,1
+428,Nhut Tran,Miwok 100K,Male,41,Long Beach,CA,15,0.686,0.7486,1
+,Alfonso Trejo,Miwok 100K WaitList,Male,27,Davis,CA,4,0.7286,0.8266,1
+,Andrew Tritt,Miwok 100K WaitList,Male,37,Oakland,CA,1,0.0,0.0,1
+429,Young-John Tung,Miwok 100K,Male,35,San Mateo,CA
+430,Matthew Unyi,Miwok 100K,Male,45,Elk Grove,CA,7,0.6106,0.6686,1
+,Jeffrey Urbanski,Miwok 100K WaitList,Male,38,Broomfield,CO,40,0.7621,0.7994,1
+431,Calvin Val,Miwok 100K,Male,36,Rocklin,CA,22,0.6616,0.6837,1
+432,Kelly Valentine,Miwok 100K,Female,45,Sacramento,CA,20,0.6836,0.7585,1
+433,Frank Valone,Miwok 100K,Male,41,Mill Valley,CA,4,0.6388,0.6525,2
+434,Dez Van der Groen,Miwok 100K,Non-Binary,38,Nicasio,CA,3,0.7435,0.7435,1
+,Geoff Vaughan,Miwok 100K WaitList,Male,58,Corte Madera,CA,72,0.8243,0.8768,1
+,Sajeer Vazhayil,Miwok 100K WaitList,Male,40,Bothell,WA,11,0.5844,0.5911,1
+435,Eduardo Vazquez,Miwok 100K,Male,50,Sausalito,CA,100,0.7977,0.8575,1
+436,Christine Velasquez,Miwok 100K,Female,50,San Jose,CA,38,0.7272,0.8085,1
+437,Elisheva Verdi,Miwok 100K,Female,47,Auburn,CA,37,0.8185,0.8767,1
+,John Verdon,Miwok 100K WaitList,Male,36,Mill Valley,CA
+438,Briana Villapudua,Miwok 100K,Female,24,Sacramento,CA,3,0.8187,0.9101,1
+439,Christine Vincent,Miwok 100K,Female,51,Roseville,CA,53,0.7365,0.8091,1
+440,Rodrigo Virrueta,Miwok 100K,Male,37,Chico,CA,37,0.7604,0.8122,1
+,Michelle Waddell,18-week Training Plan,Female,33,Rocklin,CA,5,0.7856,0.8651,1
+441,Michelle Waddell,Miwok 100K,Female,33,Rocklin,CA,5,0.7856,0.8651,1
+442,Darren Wald,Miwok 100K,Male,52,Pacific Palisades,CA,1,0.8133,0.0,2
+,Amy Waldron,Miwok 100K WaitList,Female,39,San Francisco,CA,11,0.6765,0.7231,3
+,Michael Walker,Miwok 100K WaitList,Male,36,San Carlos,CA,30,0.6731,0.6873,14
+,Grant Wallace,18-week Training Plan,Male,24,Southlake,TX,10,0.5661,0.6473,3
+,Julie Wallace,Miwok 100K WaitList,Female,49,Asheville,NC,12,0.6459,0.7245,6
+443,Greg Walor,Miwok 100K,Male,31,San Francisco,CA,18,0.6594,0.6893,1
+,Justin Walz,Miwok 100K WaitList,Male,30,Danville,CA,9,0.7599,0.8016,1
+,Cindy Wang,Miwok 100K WaitList,Female,28,Brooklyn,NY,9,0.5447,0.5517,3
+444,Michael Ward,Miwok 100K,Male,35,Danville,PA,5,0.6805,0.7293,10
+445,Mariele Wardian,Miwok 100K,Female,40,Mountain View,CA,13,0.7063,0.7357,1
+,Ross Warkentin,Miwok 100K WaitList,Male,29,Round Rock,TX,8,0.8666,0.9008,1
+,Eric Waterman,Miwok 100K WaitList,Male,51,Folsom,CA,8,0.7087,0.8186,4
+446,Eric Waters,Miwok 100K,Male,43,San Rafael,CA,1,0.5673,0.0,1
+448,Doone Watson,Miwok 100K,Female,66,Victoria,BC,18,0.827,0.9652,1
+447,Evan Watson,Miwok 100K,Male,35,Nevada City,CA,4,0.7473,0.749,2
+,Evan Watson,18-week Training Plan,Male,35,Nevada City,CA,4,0.7473,0.749,2
+449,Bryan Weathers,Miwok 100K,Male,43,Vallejo,CA,44,0.7158,0.7382,1
+450,Robert Webber,Miwok 100K,Male,33,Alhambra,CA,10,0.8601,0.8284,2
+451,Christopher Weber,Miwok 100K,Male,50,Oak Park,IL,11,0.861,0.9402,2
+452,Justin Weber-Stover,Miwok 100K,Male,48,Berkeley,CA,4,0.681,0.7385,1
+453,Scott Wegner,Miwok 100K,Male,36,Seattle,WA,5,0.6384,0.838,2
+,Kevin Wheat,Miwok 100K WaitList,Male,37,Littleton,CO,25,0.6175,0.6276,2
+454,Joshua Wheeler,Miwok 100K,Male,35,Palo AltoPalo Alto,CA,8,0.8043,0.8525,3
+455,Jennifer Whipple,Miwok 100K,Female,37,Olympia,WA,8,0.7342,0.729,2
+,William Whitacre,Miwok 100K WaitList,Male,41,Newton,MA,2,0.7382,0.8231,1
+456,Robert White,Miwok 100K,Male,40,Oakland,CA,6,0.7561,0.7992,11
+457,Sean Whiteley,Miwok 100K,Male,47,PACIFIC PLSDS,CA,1,0.8133,0.0,1
+458,Aaron Wieczorek,Miwok 100K,Male,40,Seattle,WA,8,0.8821,0.9128,1
+,Mike Willey,Miwok 100K WaitList,Male,57,Novato,CA,11,0.6668,0.8126,2
+460,Angela Williams,Miwok 100K,Female,50,Plano,TX,16,0.5955,0.6682,7
+459,Hank Williams,Miwok 100K,Male,43,Richmond,CA,14,0.6859,0.7592,2
+462,David Wilson,Miwok 100K,Male,53,Sisters,OR,20,0.6659,0.7511,21
+461,Jacob Wilson,Miwok 100K,Male,19,Vallejo,CA,2,0.7092,0.9757,4
+463,Kim Windver,Miwok 100K,Female,54,Redlands,CA,29,0.7475,0.8442,1
+464,Rebekah Winter,Miwok 100K,Female,33,Reno,NV,17,0.7853,0.8255,2
+,Gordon Wintrob,Miwok 100K WaitList,Male,32,San Francisco,CA,6,0.6172,0.649,1
+465,David Wiskowski,Miwok 100K,Male,46,Villanova,PA,46,0.7058,0.7881,2
+466,Adam Wolf,Miwok 100K,Male,45,PetalumaPetaluma,CA,56,0.858,0.9098,4
+467,Christiane Wolf,Miwok 100K,Female,54,Los Angeles,CA,10,0.749,0.8409,2
+469,Jeff Wong,Miwok 100K,Male,54,Mill Valley,CA,43,0.5349,0.6562,5
+468,Joanne Wong,Miwok 100K,Female,31,New York,NY
+,Sara Wong,Miwok 100K WaitList,Female,27,Astoria,NY
+471,Caroline Wood,Miwok 100K,Female,30,Longmont,CO,7,0.7789,0.9071,4
+470,Derek Wood,Miwok 100K,Male,32,Louisville,CO,13,0.6628,0.6962,3
+472,Chris Wu,Miwok 100K,Male,28,Seattle,WA,5,0.8729,0.8969,2
+473,Patrick Yaeger,Miwok 100K,Male,42,Mill Valley,CA,3,0.6311,0.7006,1
+,Eric Ybarrondo,Miwok 100K WaitList,Male,54,Angwin,CA,59,0.5708,0.6955,1
+,Lola Yin,18-week Training Plan,Female,34,Mountain View,CA,12,0.6329,0.6374,1
+474,Lola Yin,Miwok 100K,Female,34,Mountain View,CA,12,0.6329,0.6374,1
+,Kevin Young,Miwok 100K WaitList,Male,47,Roseville,CA,19,0.6372,0.7326,13
+475,Richard Young,Miwok 100K,Male,58,Beaverton,OR,31,0.6895,0.833,8
+476,Ivan Zarak,Miwok 100K,Male,50,Miami,FL,1,0.6265,0.6913,1
+477,Tawfig Zarif,Miwok 100K,Male,44,Pittsburg,CA,2,0.4119,0.5668,1
+478,Qiang Zhang,Miwok 100K,Male,44,San Jose,CA,3,0.5035,0.5035,3
+481,Matthew Zinn,Miwok 100K,Male,50,San Francisco,CA,12,0.7341,0.8114,1
+482,Brian Znotins,Miwok 100K,Male,49,Calgary,AB,10,0.7048,0.7747,1
